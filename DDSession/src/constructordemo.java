@@ -25,7 +25,7 @@ public class constructordemo {
 	}
 	
 	public static void main(String[] args) {
-		constructordemo ck=new constructordemo(21);//Navigate towards the One parameterized constructor
+		constructordemo cons=new constructordemo(21);//Navigate towards the One parameterized constructor
 		
 	}
 	
